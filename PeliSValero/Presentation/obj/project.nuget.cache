@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAVWAHm1Htpv43eWGPLCG1liITUoPIXIMYjZq5epy1HYj4SCFLW0AK90680jGSRwDo1Q3YDPRQuIiMNMQR9trA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\Desktop\\Clase\\PeliSValero\\PeliSValero\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
