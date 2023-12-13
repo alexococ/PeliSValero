@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrSaukUcUbbg+LXOSHXkl0eaM3j1Yk5rQqflI2qQNWeYnnxvACn3PtpmjDy5OwPSSGunL8S8D+/vZ73KJ1N14A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dgimenez2\\Downloads\\PeliSValeroActualizado\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dgimenez2\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

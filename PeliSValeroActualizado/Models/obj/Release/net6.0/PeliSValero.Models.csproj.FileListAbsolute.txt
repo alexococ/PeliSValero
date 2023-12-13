@@ -1,0 +1,12 @@
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\bin\Release\net6.0\PeliSValero.Models.deps.json
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\bin\Release\net6.0\PeliSValero.Models.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\bin\Release\net6.0\PeliSValero.Models.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.csproj.AssemblyReference.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.AssemblyInfoInputs.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.AssemblyInfo.cs
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.csproj.CoreCompileInputs.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\refint\PeliSValero.Models.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\PeliSValero.Models.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Models\obj\Release\net6.0\ref\PeliSValero.Models.dll

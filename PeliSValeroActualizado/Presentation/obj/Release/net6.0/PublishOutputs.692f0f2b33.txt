@@ -1,0 +1,12 @@
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Presentation.exe
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Presentation.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Presentation.deps.json
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Presentation.runtimeconfig.json
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Presentation.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Business.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Data.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Models.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Models.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Business.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Presentation\bin\Release\net6.0\publish\PeliSValero.Data.pdb

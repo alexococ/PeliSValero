@@ -1,0 +1,17 @@
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Business.deps.json
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Business.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Business.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Data.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Models.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Models.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\bin\Release\net6.0\PeliSValero.Data.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.csproj.AssemblyReference.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.AssemblyInfoInputs.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.AssemblyInfo.cs
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.csproj.CoreCompileInputs.cache
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.csproj.CopyComplete
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\refint\PeliSValero.Business.dll
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\PeliSValero.Business.pdb
+C:\Users\dgimenez2\Downloads\PeliSValero\Business\obj\Release\net6.0\ref\PeliSValero.Business.dll

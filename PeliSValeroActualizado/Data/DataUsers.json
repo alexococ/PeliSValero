@@ -1,0 +1,32 @@
+[
+  {
+    "UserId": 0,
+    "FirstName": "Diego",
+    "LastName": "Diego",
+    "Username": "Diego",
+    "NIF": "12121212L",
+    "Balance": 974.02,
+    "peliculasCompradas": [
+      "Matrix",
+      "Matrix"
+    ],
+    "historialCuenta": [
+      {
+        "Cantidad": 987.01,
+        "Fecha": "2023-12-05T11:42:49.9716637+01:00",
+        "Pelicula": "Matrix",
+        "Titular": "a a",
+        "Proveedor": "PeliSValero",
+        "Estado": "Pagado"
+      },
+      {
+        "Cantidad": 974.02,
+        "Fecha": "2023-12-05T11:44:33.3301479+01:00",
+        "Pelicula": "Matrix",
+        "Titular": "Diego Diego",
+        "Proveedor": "PeliSValero",
+        "Estado": "Pagado"
+      }
+    ]
+  }
+]
